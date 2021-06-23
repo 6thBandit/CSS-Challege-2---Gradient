@@ -1,0 +1,8 @@
+Desktop: 1440px x 789px
+Mobile: 375 x 702px
+
+
+
+
+
+
